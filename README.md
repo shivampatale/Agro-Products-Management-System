@@ -46,9 +46,11 @@ src/
 4.Run the project and test CRUD operations.
 ---
 ##📖 Usage
-Start the application.
 
-Use the menu-driven interface (if provided) or call service methods directly.
+1.Start the application.
 
-Perform CRUD operations on agricultural products.
+2.Use the menu-driven interface (if provided) or call service methods directly.
+
+3.Perform CRUD operations on agricultural products.
+
 ---
